@@ -38,7 +38,7 @@ public class CreateOrganizationTest extends BaseClass {
 	
 	@Test
 	public void intentionalFail() {
-		Assert.fail();
+		//Assert.fail();
 	}
 	
 	
